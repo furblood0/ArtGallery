@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    android:background="@drawable/border_radius"
+    android:orientation="horizontal"
+    android:padding="10dp"
+    android:fitsSystemWindows="true">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="5dp"
+        android:text="Test"
+        android:textColor="@color/black"
+        android:textSize="25sp"
+
+        />
+
+</LinearLayout>
+
+
